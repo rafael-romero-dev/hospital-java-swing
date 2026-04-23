@@ -1,0 +1,21 @@
+# Archivos compilados
+build/
+dist/
+*.class
+*.jar
+
+# Carpeta de captcha generado (imágenes temporales)
+captcha/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+
+# IDE
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
